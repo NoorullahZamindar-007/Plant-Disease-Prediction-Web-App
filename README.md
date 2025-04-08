@@ -1,6 +1,6 @@
 # Plant-Disease-Prediction-Web-App
 Plant Disease Prediction Web App using Flask, and Deep learning 
-Perfect! Uploading your Flask-based **Plant Disease Prediction** app to **GitHub** with a **professional README.md** is a great idea — it boosts credibility, helps others understand your project, and shows off your skills 🌟
+Perfect! Uploading your Flask-based **Plant Disease Prediction** app to **GitHub** with a **professional README.md** 🌟
 
 ---  
 
