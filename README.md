@@ -33,7 +33,7 @@ A deep learning-powered web application built with **Flask** that predicts plant
 ## 🧠 Model Summary
 
 - **Model Type:** CNN
-- **Input Shape:** `(256, 256, 3)`
+- **Input Shape:** `(256, 256, 3)`    
 - **Output:** 3 classes (e.g., Healthy, Disease A, Disease B)
 - **Loss Function:** `categorical_crossentropy`
 - **Optimizer:** `Adam (lr=0.0001)`
