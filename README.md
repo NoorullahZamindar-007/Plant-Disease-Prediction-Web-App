@@ -9,7 +9,7 @@ Uploading your Flask-based **Plant Disease Prediction** app to **GitHub** with a
 
 markdown   
 # 🌿 Plant Disease Prediction Web App
-    
+        
 A deep learning-powered web application built with **Flask** that predicts plant diseases from leaf images using a trained Convolutional Neural Network (CNN) model.
        
 <br>   
