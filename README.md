@@ -46,7 +46,7 @@ Trained using image data with **data augmentation** and **validation split**.
 
 ## 📁 Project Structure
 
-
+    
 plant-disease-app/
 
 │
