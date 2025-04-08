@@ -4,7 +4,7 @@ Perfect! Uploading your Flask-based **Plant Disease Prediction** app to **GitHub
 
 ---
 
-## ✅ Here's a professional, modern `README.md` template just for your project:
+## ✅ Here's a professional, modern `README.md` template just for your project: 
 
 markdown
 # 🌿 Plant Disease Prediction Web App
