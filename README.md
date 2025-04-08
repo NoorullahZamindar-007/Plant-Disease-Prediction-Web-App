@@ -50,14 +50,23 @@ plant-disease-app/
 
 │
 ├── app.py                       # Main Flask app
+
 ├── plant_model.json             # Model architecture
+
 ├── plant_model.weights.h5       # Model weights
+
 ├── requirements.txt             # Python dependencies
+
 ├── static/
+
 │   └── Uploaded images
+
 ├── templates/
+
 │   └── index.html               # Frontend template
+
 └── README.md                    # This file
+
 
 <br>
 
